@@ -1,6 +1,6 @@
 # Spread of Virus
 
-In this repository, we provide the code for SIR and SEIR model to analyze the spread of a virus. As COVID-19 is all over the word, this code allow you to get powerful information about future scenarios using traditional epidemiological models. We are working in this project with **@jmsancho** . 
+In this repository, we provide the code for SIR and SEIR models to analyze the spread of a virus. As COVID-19 is all over the word, this code allow you to get powerful information about future scenarios using traditional epidemiological models. We are working in this project with [**@jmsancho**](https://github.com/jmsancho). On his github you can find a code to get a great animated map of COVID-19 spread over the world. 
 
 Recent spread of COVID-19 produces the need to indentify how this propagation will affect a particular country in terms of: how long would it take until the virus desappears, when the maximum number of infected people will take place in time, are policies taken by goverment effective in terms of reducing the velocity of the spread? Is the health system prepared to give response to the demand of their services, and if it is not, how many beds in intensive and intermediate care are needed and when the saturation of the health system will take place?
 
