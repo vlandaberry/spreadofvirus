@@ -13,7 +13,10 @@ We provide two codes:
 
 We are aware that these models may not been capturing some specificities of the spread of this virus. In particular, in the SIR model, suceptibles get infected by having contact with an infected person and infected are transmiting the virus all the period until they get recovered. This seems not to reflect the COVID-19 if we take into account that in most countries once that one person is get the diagnostic of infected, they are in quarantine and the spread from that person stops at that time. On the other hand, SEIR models consider that there is a latent period of time where the person that get the virus does not infect others, and after this period has passed, they become infected and spread the virus until they are finally recovered. These models adapts to SARS flu, but not quite to COVID-19, because it seems to be contagious without latent period or a small latent period of time, and once the person get the diagnosis, quarantine measures help avoid the spread of the disease. 
 
-In COVID-19 we also have a group of people that does not have sympthoms, so they are not diagnosed as infected but they are indeed spreading the virus. 
+In COVID-19 we also have a group of people that does not have sympthoms, so they are not diagnosed as infected but they are indeed spreading the virus.
 
-That's why we also provide a new model that tries to capture all these difference, and we call it SAIR (Suceptible, Asymptomatic, Infected and Recovered)
+We are now working in a new model SAIRD, to include these difference. Hope we will make it available soon.
+
+
+
 
